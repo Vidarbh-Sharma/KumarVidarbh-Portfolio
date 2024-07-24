@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/KumarVidarbh-Portfolio/static/css/main.eff9aa4a.css",
+    "main.js": "/KumarVidarbh-Portfolio/static/js/main.ea7206e0.js",
+    "static/js/415.4d6acbeb.chunk.js": "/KumarVidarbh-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/KumarVidarbh-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Resume.pdf": "/KumarVidarbh-Portfolio/static/media/Resume.48b8fde898959d903434.pdf",
+    "static/media/World.png": "/KumarVidarbh-Portfolio/static/media/World.f415e9d69f6339a01daf.png",
+    "static/media/home-main.svg": "/KumarVidarbh-Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/KumarVidarbh-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/KumarVidarbh-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Jym.png": "/KumarVidarbh-Portfolio/static/media/Jym.6ad3e1520634f4d0e19f.png",
+    "static/media/avatar.svg": "/KumarVidarbh-Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/Guideline.png": "/KumarVidarbh-Portfolio/static/media/Guideline.215dc45185ed90505752.png",
+    "static/media/EducationGuide.png": "/KumarVidarbh-Portfolio/static/media/EducationGuide.4dd9aa85e43d29eb0e40.png",
+    "static/media/pre.svg": "/KumarVidarbh-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/KumarVidarbh-Portfolio/index.html",
+    "main.eff9aa4a.css.map": "/KumarVidarbh-Portfolio/static/css/main.eff9aa4a.css.map",
+    "main.ea7206e0.js.map": "/KumarVidarbh-Portfolio/static/js/main.ea7206e0.js.map",
+    "415.4d6acbeb.chunk.js.map": "/KumarVidarbh-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/KumarVidarbh-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eff9aa4a.css",
+    "static/js/main.ea7206e0.js"
+  ]
+}
